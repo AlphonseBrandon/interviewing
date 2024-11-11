@@ -1,0 +1,25 @@
+Trying:
+    input1 = [1, 2, 3, 3]
+Expecting nothing
+ok
+Trying:
+    input2 = [1, 2, 3, 4]
+Expecting nothing
+ok
+Trying:
+    duplicate_integer(input1)
+Expecting:
+    True
+ok
+Trying:
+    duplicate_integer(input2)
+Expecting:
+    False
+ok
+1 items had no tests:
+    __main__
+1 items passed all tests:
+   4 tests in __main__.duplicate_integer
+4 tests in 2 items.
+4 passed and 0 failed.
+Test passed.
