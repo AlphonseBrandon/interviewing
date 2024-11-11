@@ -1,6 +1,7 @@
 """
 Author: Alphonse Brandon
-Date Created: 11/11/2024
+Date Created: 11/11/2024 12:00
+Last Edited: 11/11/2024 15:53
 """
 
 def duplicate_integer(nums: list[int]) -> bool:
